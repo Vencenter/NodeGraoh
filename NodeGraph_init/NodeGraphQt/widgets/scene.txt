@@ -1,0 +1,6 @@
+对
+NodeGraph-maste2018-05-14_15-58-49\NodeGraphQt\widgets\scene.py 
+
+
+进行了修改，修改文件有汉语注释。
+

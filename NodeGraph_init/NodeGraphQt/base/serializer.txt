@@ -1,0 +1,8 @@
+对
+odeGraph-maste2018-05-14_15-58-49\NodeGraphQt\base\serializer.py
+进行了修改，可以获取节点储存的信息。修改文件有汉语注释。
+
+
+ def getWrite(self, file_path):#修改此处，添加的获取节点文件内容
+        file_path = file_path.strip()
+        return self.serialize_layout()

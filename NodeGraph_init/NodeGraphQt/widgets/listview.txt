@@ -1,0 +1,3 @@
+对
+添加了NodeGraph-maste2018-05-14_15-58-49\NodeGraphQt\widgets\listview.py 
+内容为参数面板。

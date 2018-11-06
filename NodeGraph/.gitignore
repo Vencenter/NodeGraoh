@@ -1,0 +1,14 @@
+# sphinx documentation
+docs/_build/
+
+# python stuff
+*.pyc
+*.idea
+
+# windows/osx stuff
+*.db
+*.DS_Store
+
+# test
+*.ngqt
+*.json

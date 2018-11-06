@@ -1,0 +1,4 @@
+对
+NodeGraph-maste2018-05-14_15-58-49\NodeGraphQt\widgets\pipe.py 
+
+进行了修改，可以获取节点储存的信息。修改文件有汉语注释。

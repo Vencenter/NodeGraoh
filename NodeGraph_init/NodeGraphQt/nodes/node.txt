@@ -1,0 +1,2 @@
+添加了jsonfile目录，存放节点信息的json文件。
+对节点input，output创建方式进行了修改，通过读取json信息。
